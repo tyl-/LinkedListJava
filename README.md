@@ -1,8 +1,6 @@
-# Linked List Java
+# Linked List Java [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-> This Java program stores data in a linked list.
-
-- [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+This program explores
 
 ---
 
@@ -54,10 +52,10 @@ The main goals for this program are:
 
 ---
 
-## Thank You To
+## Special Thanks To
 
 - <a href="http://fvcproductions.com" target="_blank">FVCproductions</a> for their README Template.
-
+- <a href="https://travis-ci.org/" target="_blank">Travis CI</a> for the badges.
 ---
 
 ## License
