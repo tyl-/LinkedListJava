@@ -1,4 +1,4 @@
-# Linked List Java [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+# Linked List Java [![Build Status](https://travis-ci.org/tyl-/LinkedListJava.svg?branch=master)](https://travis-ci.org/tyl-/LinkedListJava) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 This program explores the functionality of linked lists. Data are stored in nodes that are linked in circular chain. Adding or removing nodes are easily managed by the list. The list is stored in a text file for permanence.
 
@@ -45,17 +45,11 @@ The main goals for this program are:
 
 ---
 
-## Installation
-
-- All the java files used are in 'src' folder.
-- Textfile are stored in 'DataFiles' folder
-
----
-
 ## Special Thanks To
 
 - <a href="http://fvcproductions.com" target="_blank">FVCproductions</a> for their README Template.
-- <a href="https://travis-ci.org/" target="_blank">Travis CI</a> for the badges.
+- <a href="https://travis-ci.org/" target="_blank">Travis CI</a>.
+
 ---
 
 ## License
