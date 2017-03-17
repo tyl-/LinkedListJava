@@ -37,7 +37,7 @@ The main goals for this program are:
 
 ---
 
-## Future Changes 
+## Possible Improvements
 
 - Refactor.
 - Add unit tests.
